@@ -1,0 +1,6 @@
+Pop Cristian, ISEE, 1, taxa
+Rus Alexandru, TCM, 2, buget
+Vitej Mihaela, CAL, 4, taxa
+Vasilica Andrei, ISEE, 2, buget
+Popescu Ioan, EA, 2, buget
+Ion baciu, TCM, 3, taxa
